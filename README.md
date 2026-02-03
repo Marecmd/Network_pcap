@@ -24,5 +24,5 @@ Each screenshot should include clear, informative text explaining its significan
 
 Example below:
 
-*Ref 1: Network Diagram*e to view certificate](ADD LINK HERE!) - Course focused on doing stuff in computers.
-* ## **[Date 2020 - Date 2022] Course I Took, ** - [Click here to view certificate](ADD LINK HERE!) - Course focused on doing stuff in computers.  
+*Ref 1: Network Diagram
+
